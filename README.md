@@ -61,15 +61,10 @@ A desktop-based **Lost and Found Management System** developed using **C# WinFor
 
 ## How to Run the Project
 
-1. Clone the repository:
-
-   [```bash
-   (https://github.com/Usman-Ilyas-11/LOST-AND-FOUND)
-   ```]
-2. Open the solution file (`.sln`) in **Visual Studio**
-3. Restore NuGet packages if required
-4. Build the solution
-5. Run the application
+1. Open the solution file (`.sln`) in **Visual Studio**
+2. Restore NuGet packages if required
+3. Build the solution
+4. Run the application
 
 ---
 
